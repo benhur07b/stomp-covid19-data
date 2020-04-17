@@ -4,7 +4,7 @@ Data Repository of STOMP COVID-19 PH. :)
 
 ## The [spatial](https://github.com/benhur07b/stomp-covid19-data/tree/master/spatial) folder holds spatial information on COVID-19 cases in the Philippines (confirmed, admitted, deaths,and recoveries).
 
-**NOTE:**
+* Counts are computed from the DOH COVID-19 Data Drop.
 * The *name_x_doh* fields pertain to the names used by DOH in their COVID-19 Tracker and Data Drop.
 * The *name_x_psa* fields pertain to the names used by the PSA in the Dec 2019 PSGC Publication.
 * PSGC (Philippine Standard Geographic Codes) are provided for the areas (ongoing).
