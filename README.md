@@ -2,6 +2,10 @@
 
 Data Repository of STOMP COVID-19 PH. :)
 
+## The [modified_doh_data_drop](https://github.com/benhur07b/stomp-covid19-data/tree/master/modified_doh_data_drop) folder holds modified data from DOH Data Drop (cleaned, added PSGC fields, etc.).
+* Added *region, province, and municity* fields
+* Added *psgc_region, psgc_province, and psgc_municity* fields
+
 ## The [spatial](https://github.com/benhur07b/stomp-covid19-data/tree/master/spatial) folder holds spatial information on COVID-19 cases in the Philippines (confirmed, admitted, deaths,and recoveries).
 
 * Counts are computed from the DOH COVID-19 Data Drop.
